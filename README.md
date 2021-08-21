@@ -36,4 +36,4 @@ Run the following from the project root directory:
 |--|--|
 | Local | [http://localhost:8000](http://localhost:8000) |
 | Staging | [https://pixelsmatter.io](https://staging.pixelsmatter.io) |
-| Production | [httpx://pixelsmatter.io](https://pixelsmatter.io) |
+| Production | [https://pixelsmatter.io](https://pixelsmatter.io) |
